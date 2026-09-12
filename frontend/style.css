@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111827;
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    color: #9ca3af;
+}
+
+button {
+    padding: 14px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#status {
+    margin-top: 25px;
+    color: #22c55e;
+}
